@@ -3,7 +3,7 @@ Documenting my journey as a graduate student working with SQL & trying to publis
 
 
 ## Fall 2025
-<details open>
+<details close>
       <summary>August/September</summary>
 
 
@@ -51,6 +51,38 @@ Documenting my journey as a graduate student working with SQL & trying to publis
 
   <ul>
         <li>No work was done in regards to research as this week has been busy with class work deadlines. The todo list of last week still needs to be addressed.</li>
+  </ul>
+  
+  <h3>Week 7 (October 6th - October 12th)</h3>
+  <ul>
+        <li>In preparation for midterms, research work has yet again been neglected for the most part of this week.</li>
+        <li>Target demographic will be the following:<br>
+                                                  Undergraduate Computer Science students that have completed CS326, Programming Languages<br>
+                                                  Gradute CS students without any prerequistes<br>
+                                                  Recent CS graduates, defined as being students who have graduated in the past 12 months.<br>
+        </li>
+        <li>Any aggregate functions that are chosen need to be straightforward to understand. Wtih the target demographic, it is important that the study doesn't expect too much of them given that they're novices in the field. </li>
+  </ul>
+  
+  <h3>Week 8 (October 13th - October 19th)</h3>
+  <ul>
+        <li>A zoom meeting was held with researchers whose names are redacted. The purpose for this meeting was to address the work they're currently doing with SQL and to get a sense of direction for my own study. It was suggested to use N-of-1 studies to help quickly determine potential avenues regarding SQL error messages and syntax. More specifically, it was suggested to create a N-of-1 study that measures whether or not the new SQL syntax introduced by Google actually has any validity to it amongst novice programmers.</li>
+        <li>Google's paper "SQL Has Problems. We Can Fix Them: Pipe Syntax in SQL" I found to be one of little validity and more of self-promotion. Their evidence cites their own employees using a version of SQL they developed and how as time goes on, and as they continue to push people to use it, more people preferred their approach over traditional SQL syntax. The real difference between the two is the use of "|>" before every line and changing around the order in which queries are written. </li>
+  </ul>
+  
+  <h3>Week 9 (October 20th - October 26th)</h3>
+  <ul>
+        <li>Dr.Stefik proposed the idea of creating an N-of-1 study that randomly generates tables and a corresponding query that consits of nested COUNTs, requiring the user to read and comprehend the query, then provide an answer between 0-9. This approach aims to narrow down purely syntax readability and measure whether or not theres a meaningful difference across multiple formats. My responsibility now is to use existing resources and create a simple program that can do just this. </li>
+  </ul>
+</details>
+
+<details open>
+  <summary>November</summary>
+      
+  <h3>Week 10 (October 27th - November 2nd)</h3>
+  <ul>
+        <li>Last midterm of the semester was this week. That was a nightmare but now hopefully I'll be able to begin dedicating more time towardas research as the month of October comes to a close. </li>
+        <li>Began experimenting on how to create the experimental environment as described in last week's update. </li>
   </ul>
 
 </details>
