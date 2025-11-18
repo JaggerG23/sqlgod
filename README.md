@@ -44,7 +44,7 @@ Documenting my journey as a graduate student working with SQL & trying to publis
   </ul>
   
   </details>
-<details open>
+<details close>
   <summary>October</summary>
 
   <h3>Week 6 (September 29th - October 5th)</h3>
@@ -83,6 +83,16 @@ Documenting my journey as a graduate student working with SQL & trying to publis
   <ul>
         <li>Last midterm of the semester was this week. That was a nightmare but now hopefully I'll be able to begin dedicating more time towardas research as the month of October comes to a close. </li>
         <li>Began experimenting on how to create the experimental environment as described in last week's update. </li>
+  </ul>
+
+  <h3>Week 11 (November 3rd - November 9th)</h3>
+  <ul>
+        <li>Absolutely nothing, CS689 is taking up all of my time.</li>
+  </ul>
+
+  <h3>Week 12 (November 10th - November 16th)</h3>
+    <ul>
+        <li>Absolutely nothing, all of my classes are eating up my time. At this point, I do not anticipate any work to be done until winter break, but only time will tell. </li>
   </ul>
 
 </details>
