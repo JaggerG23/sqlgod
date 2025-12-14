@@ -77,7 +77,7 @@ Documenting my journey as a graduate student working with SQL & trying to publis
 </details>
 
 <details open>
-  <summary>November</summary>
+  <summary>November/December</summary>
       
   <h3>Week 10 (October 27th - November 2nd)</h3>
   <ul>
@@ -94,6 +94,39 @@ Documenting my journey as a graduate student working with SQL & trying to publis
     <ul>
         <li>Absolutely nothing, all of my classes are eating up my time. At this point, I do not anticipate any work to be done until winter break, but only time will tell. </li>
   </ul>
+
+  <h3>Week 13 - 15 (November 17th - Dec 7th)</h3>
+    <ul>
+        <li>This period of time consisted of Thanksgiving break, finishing the remaining homework for my classes, and working on the SQL Assistant model for CS689. No work was done towards my own independent research. </li>
+        <li>
+              <b>Taken from the abstract of my SQL Error Assistant paper:</b>
+                  SQL is the industry standard language for relational databases
+                  management systems and is commonly introduced to novices
+                  programmers through systems such as MySQL. Despite its
+                  long history, SQL error messages are often perceived by
+                  novices as unintuitive, confusing, vague, or unhelpful. Over
+                  the past fifty years, relatively little effort has been made to im
+                  prove these error messages to support novice programmers’
+                  ability to understand and adopt the system. This paper pro
+                  poses a modern solution by leveraging Salesforce’s CodeT5
+                  model– a transformer model designed to understand and
+                  interpret coding languages– and fine-tuning it to support
+                  MySQL, enabling the generation of error messages that are
+                  tailored to a programmer’s understanding of the language.
+            </li>
+        <li>The TLDR of the paper is that although I generated 100,000 unique samples, the model was overfitting and never learned the context of the queries. </li>
+  </ul>
+
+  <h3>Week 16 (December 8th - December 14th) - FINALS WEEK </h3>
+    <ul>
+        <li> This week consisted of two finals (CS682, CS784) and the project presentation for the SQL error assistant I've been working on in CS689. </li> 
+        <li>With the first semester of grad school in the books, I look back on it as a rollercoaster of emotions. I would never take or recommend CS682 so long as the professor I took it under continues to teach it. 
+        Not because of them as a person, but because of their inability to put in any effort into helping their students learn the material besides writing on the whiteboard. 
+        CS689 had growing pains of being the first class of its kind ever taught. It has promising aspects, but it still needs serious revision.
+        CS784 gave me the experience I anticipated having in grad school. It was a healthy balance of not too much work, but still challenging and requiring you to be engaged with the material at all times. 
+        I look forward to next semester, where I can hopefully begin to make progress on my research and live a much more balanced lifestyle with school. 
+        Over this winter break, I look forward to designing and creating experiments that I may use for my experiment, as I have no desire to become a couch potato. </li>
+  </ul>  
 
 </details>
 
