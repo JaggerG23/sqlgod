@@ -76,7 +76,7 @@ Documenting my journey as a graduate student working with SQL & trying to publis
   </ul>
 </details>
 
-<details open>
+<details close>
   <summary>November/December</summary>
       
   <h3>Week 10 (October 27th - November 2nd)</h3>
@@ -130,3 +130,20 @@ Documenting my journey as a graduate student working with SQL & trying to publis
 
 </details>
 
+
+## Spring 2026
+<details open>
+      <summary>January/February</summary>
+
+
+  <h3>Week 1 (January 19th - 25th)</h3>
+
+  <ul>
+        <li>Class orientations (CS722: Advanced Machine Learning, CS789: NLP and OCR Processing, CS642: Cloud Computing)</li>
+        <li>No research meeting this week</li>
+  </ul>
+<h3>Week 2 (January 26th - February 1st)</h3>
+
+  <ul>
+        <li>Attended Dr.Stefik's first research lab of the semester, where he made everyone in the room state a goal for the semester. I stated that I want to get my experiments established and pushed through IRB by the end of the semester. </li>
+  </ul>
