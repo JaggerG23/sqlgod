@@ -1,6 +1,39 @@
 # SQLGOD
 Documenting my journey as a graduate student working with SQL & trying to publish a paper on its error messages
 
+## Summer 2026
+<details open>
+      <summary>July</summary>
+
+
+  <h3>Progress update</h3>
+
+  <ul>
+        &emsp;Seeing how this hasn't been updated since January, it is long overdue for a status update. To put it bluntly, the spring semester research-wise was a flop. My attention was split as my shoe business saw abnormally high activity from February onwards and classwork began to pile up. With that said, it wasn't as if I stopped working with SQL completely.<br><br>
+        &emsp;For one of my classes, OCR and NLP, it unintentionally became a semester-long extension of my Deep Learning project from Fall 2025, where I continued to work on teaching a transformer-based model to identify SQL errors, both syntactically and semantically, resolve them, and provide evidence-based explanations. In the end, the model still didn't work, and we concluded that fine-tuning just wasn't the appropriate approach for that project. As part of this project, I worked on a team of two and wrote a paper intending to potentially publish it. As the model was a flop, I chose not to publish it until I have a model that worked to some degree.<br><br>
+        &emsp;Additionally, during the week of June 22nd, me and a lab partner attended EPIQ 2026, a week long conference setup by our advisor that is dedicated towards working with teachers and educators from across the United States that specializes in teaching students who are deaf, blind, or visually impaired. We had the opportunity of meeting and observing how these people interact with different technologies as well as prod questions such as what they feel is lacking in terms of accessibility and support in their classrooms. While attending, I was invited to participate in my lab partner's think aloud study geared towards accessibility with 3D modeling. My involvement involved interpreting, transcribing and jotting down points made by the participants.<br><br>
+        &emsp;Next, why am I updating this now? Well, July 13th, 2026, is the first day of summer session III for UNLV. For me, that marks the beginning of CS690, Independent Study. Thanks to my advisor, I was able to sign up for this class to use it as an opportunity to not only get myself back into the flow of school before the fall semester starts, but also to force myself to sit down and work on my experiments, CITI approval, IRB approval, and begin to break ground on writing my thesis. For roughly the next 40 days, I'll be in constant contact with my advisor as I progress through this class. I will also continue to update this blog weekly just as I did in in prior semesters.  
+  </ul>
+
+
+## Spring 2026
+<details close>
+      <summary>January/February</summary>
+
+
+  <h3>Week 1 (January 19th - 25th)</h3>
+
+  <ul>
+        <li>Class orientations (CS722: Advanced Machine Learning, CS789: NLP and OCR Processing, CS642: Cloud Computing)</li>
+        <li>No research meeting this week</li>
+  </ul>
+<h3>Week 2 (January 26th - February 1st)</h3>
+
+  <ul>
+        <li>Attended Dr.Stefik's first research lab of the semester, where he made everyone in the room state a goal for the semester. I stated that I want to get my experiments established and pushed through IRB by the end of the semester. </li>
+  </ul>
+</details>
+
 
 ## Fall 2025
 <details close>
@@ -129,21 +162,3 @@ Documenting my journey as a graduate student working with SQL & trying to publis
   </ul>  
 
 </details>
-
-
-## Spring 2026
-<details open>
-      <summary>January/February</summary>
-
-
-  <h3>Week 1 (January 19th - 25th)</h3>
-
-  <ul>
-        <li>Class orientations (CS722: Advanced Machine Learning, CS789: NLP and OCR Processing, CS642: Cloud Computing)</li>
-        <li>No research meeting this week</li>
-  </ul>
-<h3>Week 2 (January 26th - February 1st)</h3>
-
-  <ul>
-        <li>Attended Dr.Stefik's first research lab of the semester, where he made everyone in the room state a goal for the semester. I stated that I want to get my experiments established and pushed through IRB by the end of the semester. </li>
-  </ul>
