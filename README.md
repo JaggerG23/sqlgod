@@ -14,6 +14,14 @@ Documenting my journey as a graduate student working with SQL & trying to publis
         &emsp;Additionally, during the week of June 22nd, me and a lab partner attended EPIQ 2026, a week long conference setup by our advisor that is dedicated towards working with teachers and educators from across the United States that specializes in teaching students who are deaf, blind, or visually impaired. We had the opportunity of meeting and observing how these people interact with different technologies as well as prod questions such as what they feel is lacking in terms of accessibility and support in their classrooms. While attending, I was invited to participate in my lab partner's think aloud study geared towards accessibility with 3D modeling. My involvement involved interpreting, transcribing and jotting down points made by the participants.<br><br>
         &emsp;Next, why am I updating this now? Well, July 13th, 2026, is the first day of summer session III for UNLV. For me, that marks the beginning of CS690, Independent Study. Thanks to my advisor, I was able to sign up for this class to use it as an opportunity to not only get myself back into the flow of school before the fall semester starts, but also to force myself to sit down and work on my experiments, CITI approval, IRB approval, and begin to break ground on writing my thesis. For roughly the next 40 days, I'll be in constant contact with my advisor as I progress through this class. I will also continue to update this blog weekly just as I did in in prior semesters.  
   </ul>
+
+  <h3>Week 1 (July 13th - 19th)</h3>
+
+  <ul>
+        <li>Literature review was revamped by going through ACM/ICEE online libraries and looking for anything SQL-related that I hadn't already seen/read. There were 17 new articles that were seemingly related to my topic of SQL errors; 8 of these were actually relevant. Afterward, I compiled a list of potential SQL error sources, which currently contains 20 items. </li>
+        <li>Began working through Collaborative Institutional Training Initiative (CITI) modules for IRB. </li>
+  </ul>
+  
 </details>
 
 ## Spring 2026
