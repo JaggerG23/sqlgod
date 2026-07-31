@@ -21,6 +21,13 @@ Documenting my journey as a graduate student working with SQL & trying to publis
         <li>Literature review was revamped by going through ACM/ICEE online libraries and looking for anything SQL-related that I hadn't already seen/read. There were 17 new articles that were seemingly related to my topic of SQL errors; 8 of these were actually relevant. Afterward, I compiled a list of potential SQL error sources, which currently contains 20 items. </li>
         <li>Began working through Collaborative Institutional Training Initiative (CITI) modules for IRB. </li>
   </ul>
+
+  <h3>Week 2 (July 20th - 26th)</h3>
+
+  <ul>
+        <li> Completed the following Collaborative Institutional Training Initiative modules: Conflicts of interest, HIPAA, Social/Behavioral IRB, Social and Behavioral Responsible Conduct of Research Course</li>
+        <li>Contacted my advisor for direction on what to do next and was told to review my research question and methodology to ensure what I'm researching is what I actually want to learn about. I followed up by drafting a Google Doc with various research questions related to SQL/Databases, shared it with my advisor, and coordinated a video call next week to review and brainstorm ideas. </li>
+  </ul>
   
 </details>
 
