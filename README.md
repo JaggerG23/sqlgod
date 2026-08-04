@@ -28,6 +28,12 @@ Documenting my journey as a graduate student working with SQL & trying to publis
         <li> Completed the following Collaborative Institutional Training Initiative modules: Conflicts of interest, HIPAA, Social/Behavioral IRB, Social and Behavioral Responsible Conduct of Research Course</li>
         <li>Contacted my advisor for direction on what to do next and was told to review my research question and methodology to ensure what I'm researching is what I actually want to learn about. I followed up by drafting a Google Doc with various research questions related to SQL/Databases, shared it with my advisor, and coordinated a video call next week to review and brainstorm ideas. </li>
   </ul>
+
+  <h3>Week 3 (July 27th - August 2nd)</h3>
+  <ul>
+        <li>Scheduled a video call with my advisor to discuss what I've seen in the recent literature regarding SQL and to evaluate the direction of the research, questioning whether there are other avenues we can take the work. After an hour of discussion, we concluded that although we could conduct a replication study on error messages, there isn't much we can add to the topic at this time. However, we did discuss the potential of trying to understand the "why" behind three major aspects of SQL: 1. Schema naming convention, 2. SQL's Syntax, 3. The host language (as SQL is rarely seen independent of other languages) </li>
+        <li>Using Gemini, I began to create a test suite for participants. This test suite provides the user with multiple-choice questions asking them to identify how to resolve the query. </li>
+  </ul>
   
 </details>
 
