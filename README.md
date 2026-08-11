@@ -34,6 +34,12 @@ Documenting my journey as a graduate student working with SQL & trying to publis
         <li>Scheduled a video call with my advisor to discuss what I've seen in the recent literature regarding SQL and to evaluate the direction of the research, questioning whether there are other avenues we can take the work. After an hour of discussion, we concluded that although we could conduct a replication study on error messages, there isn't much we can add to the topic at this time. However, we did discuss the potential of trying to understand the "why" behind three major aspects of SQL: 1. Schema naming convention, 2. SQL's Syntax, 3. The host language (as SQL is rarely seen independent of other languages) </li>
         <li>Using Gemini, I began to create a test suite for participants. This test suite provides the user with multiple-choice questions asking them to identify how to resolve the query. </li>
   </ul>
+
+  <h3>Week 4 (August 3rd - August 9th)</h3>
+  <ul>
+        <li>Continued progress working on the test suite. To make it easily accessible, I put it on an AWS Lightsail instance and have been sharing the URL around to foster people's opinions. </li>
+        <li>After speaking with my advisor, I had to further narrow down the questions I want to ask and what specifically I'm targeting with my work. He recommended adding more groups to the study because, in my current interpretation, there are way too many moving parts, and you wouldn't be able to tell which factors affect which. To help address the potential issue of having too few participants, I received a verbal commitment from another CS professor to use their upper-level students for my study. The experimental design requires another discussion and approval with my advisor next week to ensure my approach makes sense. </li>
+  </ul>
   
 </details>
 
