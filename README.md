@@ -40,6 +40,12 @@ Documenting my journey as a graduate student working with SQL & trying to publis
         <li>Continued progress working on the test suite. To make it easily accessible, I put it on an AWS Lightsail instance and have been sharing the URL around to foster people's opinions. </li>
         <li>After speaking with my advisor, I had to further narrow down the questions I want to ask and what specifically I'm targeting with my work. He recommended adding more groups to the study because, in my current interpretation, there are way too many moving parts, and you wouldn't be able to tell which factors affect which. To help address the potential issue of having too few participants, I received a verbal commitment from another CS professor to use their upper-level students for my study. The experimental design requires another discussion and approval with my advisor next week to ensure my approach makes sense. </li>
   </ul>
+
+  <h3>Week 5 (August 10th - August 16th)</h3>
+  <ul>
+        <li>Wrapping up the final week of Independent Study, CS690, the focus of this week was to further tweak the experiment test suite as well as prepare an IRB Proposal. With my lab partner's help, I stepped through creating an account on my university's IRB platform, completed an exempt research form, and submitted it to my advisor for review before submitting it to the IRB. After discussing with my advisor what else I needed to do to complete the course, they confirmed I finished all necessary work and gave me an A. The IRB submission will be reviewed once school is back in session, so for next week there is no pressing work needed to be done in regard to this research. </li>
+        <li>Rather than staying home and taking the next week off, I will maintain my routine of going to the lab daily but will focus my attention towards preparing for my Fall 2026 coursework. </li>
+  </ul>
   
 </details>
 
