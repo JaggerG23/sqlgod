@@ -1,8 +1,32 @@
 # SQLGOD
 Documenting my journey as a graduate student working with SQL & trying to publish a paper on its error messages
 
-## Summer 2026
+## Fall 2026
 <details open>
+      <summary>August</summary>
+
+  <h3>Week 4 of Independent Study(August 3rd - August 9th)</h3>
+  <ul>
+        <li>Continued progress working on the test suite. To make it easily accessible, I put it on an AWS Lightsail instance and have been sharing the URL around to foster people's opinions. </li>
+        <li>After speaking with my advisor, I had to further narrow down the questions I want to ask and what specifically I'm targeting with my work. He recommended adding more groups to the study because, in my current interpretation, there are way too many moving parts, and you wouldn't be able to tell which factors affect which. To help address the potential issue of having too few participants, I received a verbal commitment from another CS professor to use their upper-level students for my study. The experimental design requires another discussion and approval with my advisor next week to ensure my approach makes sense. </li>
+  </ul>
+
+  <h3>Week 5 of Independent Study(August 10th - August 16th)</h3>
+  <ul>
+        <li>Wrapping up the final week of Independent Study, CS690, the focus of this week was to further tweak the experiment test suite as well as prepare an IRB Proposal. With my lab partner's help, I stepped through creating an account on my university's IRB platform, completed an exempt research form, and submitted it to my advisor for review before submitting it to the IRB. After discussing with my advisor what else I needed to do to complete the course, they confirmed I finished all necessary work and gave me an A. The IRB submission will be reviewed once school is back in session, so for next week there is no pressing work needed to be done in regard to this research. </li>
+        <li>Rather than staying home and taking the next week off, I will maintain my routine of going to the lab daily but will focus my attention towards preparing for my Fall 2026 coursework. </li>
+  </ul>
+
+  <h3> August 17th - August 23rd</h3>
+  <ul>
+        This was my last designated week of summer before the fall semester begins. No effort was put towards the SQL research as my attention was directed towards reading the books for my upcoming CS747 class. On Thursday, August 20th, my advisor submitted my IRB proposal to IRB and is currently under review as of writing this. 
+  </ul>
+  
+</details>
+  
+
+## Summer 2026
+<details close>
       <summary>July</summary>
 
 
@@ -15,37 +39,27 @@ Documenting my journey as a graduate student working with SQL & trying to publis
         &emsp;Next, why am I updating this now? Well, July 13th, 2026, is the first day of summer session III for UNLV. For me, that marks the beginning of CS690, Independent Study. Thanks to my advisor, I was able to sign up for this class to use it as an opportunity to not only get myself back into the flow of school before the fall semester starts, but also to force myself to sit down and work on my experiments, CITI approval, IRB approval, and begin to break ground on writing my thesis. For roughly the next 40 days, I'll be in constant contact with my advisor as I progress through this class. I will also continue to update this blog weekly just as I did in in prior semesters.  
   </ul>
 
-  <h3>Week 1 (July 13th - 19th)</h3>
+  <h3>Week 1 of Independent Study(July 13th - 19th)</h3>
 
   <ul>
         <li>Literature review was revamped by going through ACM/ICEE online libraries and looking for anything SQL-related that I hadn't already seen/read. There were 17 new articles that were seemingly related to my topic of SQL errors; 8 of these were actually relevant. Afterward, I compiled a list of potential SQL error sources, which currently contains 20 items. </li>
         <li>Began working through Collaborative Institutional Training Initiative (CITI) modules for IRB. </li>
   </ul>
 
-  <h3>Week 2 (July 20th - 26th)</h3>
+  <h3>Week 2 of Independent Study(July 20th - 26th)</h3>
 
   <ul>
         <li> Completed the following Collaborative Institutional Training Initiative modules: Conflicts of interest, HIPAA, Social/Behavioral IRB, Social and Behavioral Responsible Conduct of Research Course</li>
         <li>Contacted my advisor for direction on what to do next and was told to review my research question and methodology to ensure what I'm researching is what I actually want to learn about. I followed up by drafting a Google Doc with various research questions related to SQL/Databases, shared it with my advisor, and coordinated a video call next week to review and brainstorm ideas. </li>
   </ul>
 
-  <h3>Week 3 (July 27th - August 2nd)</h3>
+  <h3>Week 3 of Independent Study(July 27th - August 2nd)</h3>
   <ul>
         <li>Scheduled a video call with my advisor to discuss what I've seen in the recent literature regarding SQL and to evaluate the direction of the research, questioning whether there are other avenues we can take the work. After an hour of discussion, we concluded that although we could conduct a replication study on error messages, there isn't much we can add to the topic at this time. However, we did discuss the potential of trying to understand the "why" behind three major aspects of SQL: 1. Schema naming convention, 2. SQL's Syntax, 3. The host language (as SQL is rarely seen independent of other languages) </li>
         <li>Using Gemini, I began to create a test suite for participants. This test suite provides the user with multiple-choice questions asking them to identify how to resolve the query. </li>
   </ul>
+            
 
-  <h3>Week 4 (August 3rd - August 9th)</h3>
-  <ul>
-        <li>Continued progress working on the test suite. To make it easily accessible, I put it on an AWS Lightsail instance and have been sharing the URL around to foster people's opinions. </li>
-        <li>After speaking with my advisor, I had to further narrow down the questions I want to ask and what specifically I'm targeting with my work. He recommended adding more groups to the study because, in my current interpretation, there are way too many moving parts, and you wouldn't be able to tell which factors affect which. To help address the potential issue of having too few participants, I received a verbal commitment from another CS professor to use their upper-level students for my study. The experimental design requires another discussion and approval with my advisor next week to ensure my approach makes sense. </li>
-  </ul>
-
-  <h3>Week 5 (August 10th - August 16th)</h3>
-  <ul>
-        <li>Wrapping up the final week of Independent Study, CS690, the focus of this week was to further tweak the experiment test suite as well as prepare an IRB Proposal. With my lab partner's help, I stepped through creating an account on my university's IRB platform, completed an exempt research form, and submitted it to my advisor for review before submitting it to the IRB. After discussing with my advisor what else I needed to do to complete the course, they confirmed I finished all necessary work and gave me an A. The IRB submission will be reviewed once school is back in session, so for next week there is no pressing work needed to be done in regard to this research. </li>
-        <li>Rather than staying home and taking the next week off, I will maintain my routine of going to the lab daily but will focus my attention towards preparing for my Fall 2026 coursework. </li>
-  </ul>
   
 </details>
 
