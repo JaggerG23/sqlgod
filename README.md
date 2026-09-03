@@ -21,6 +21,13 @@ Documenting my journey as a graduate student working with SQL & trying to publis
   <ul>
         This was my last designated week of summer before the fall semester begins. No effort was put towards the SQL research as my attention was directed towards reading the books for my upcoming CS747 class. On Thursday, August 20th, my advisor submitted my IRB proposal to IRB and is currently under review as of writing this. 
   </ul>
+
+  <h3> Week 1 of Fall 2026 (August 24th - August 30th)</h3>
+  <ul>
+        <li>Beginning of the fall semester is underway! The semester I'll be taking two classes, CS747 and CS791, while I continue attempting to get this SQL study through IRB and into the hands of participants this semester. </li>
+        <li>Lab meetings have returned as well. With everyone gathering together, we took this week to brainstorm research projects for the year as well as proposed paper prototype ideas to bring in to next week's meeting. </li>
+        <li>With no homework assigned, a lot of my time this week went towards refining the test suite. It has come to my knowledge that storing responses is not actually working on the website as all responses are saved locally in browser rather than in a dedicated file. </li>
+  </ul>
   
 </details>
   
