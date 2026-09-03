@@ -1,5 +1,5 @@
 # SQLGOD
-Documenting my journey as a graduate student working with SQL & trying to publish a paper on its error messages
+Documenting my journey as a graduate student working with SQL & trying to publish a paper on it
 
 ## Fall 2026
 <details open>
