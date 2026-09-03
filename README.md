@@ -5,28 +5,11 @@ Documenting my journey as a graduate student working with SQL & trying to publis
 <details open>
       <summary>August</summary>
 
-  <h3>Week 4 of Independent Study(August 3rd - August 9th)</h3>
-  <ul>
-        <li>Continued progress working on the test suite. To make it easily accessible, I put it on an AWS Lightsail instance and have been sharing the URL around to foster people's opinions. </li>
-        <li>After speaking with my advisor, I had to further narrow down the questions I want to ask and what specifically I'm targeting with my work. He recommended adding more groups to the study because, in my current interpretation, there are way too many moving parts, and you wouldn't be able to tell which factors affect which. To help address the potential issue of having too few participants, I received a verbal commitment from another CS professor to use their upper-level students for my study. The experimental design requires another discussion and approval with my advisor next week to ensure my approach makes sense. </li>
-  </ul>
-
-  <h3>Week 5 of Independent Study(August 10th - August 16th)</h3>
-  <ul>
-        <li>Wrapping up the final week of Independent Study, CS690, the focus of this week was to further tweak the experiment test suite as well as prepare an IRB Proposal. With my lab partner's help, I stepped through creating an account on my university's IRB platform, completed an exempt research form, and submitted it to my advisor for review before submitting it to the IRB. After discussing with my advisor what else I needed to do to complete the course, they confirmed I finished all necessary work and gave me an A. The IRB submission will be reviewed once school is back in session, so for next week there is no pressing work needed to be done in regard to this research. </li>
-        <li>Rather than staying home and taking the next week off, I will maintain my routine of going to the lab daily but will focus my attention towards preparing for my Fall 2026 coursework. </li>
-  </ul>
-
-  <h3> August 17th - August 23rd</h3>
-  <ul>
-        This was my last designated week of summer before the fall semester begins. No effort was put towards the SQL research as my attention was directed towards reading the books for my upcoming CS747 class. On Thursday, August 20th, my advisor submitted my IRB proposal to IRB and is currently under review as of writing this. 
-  </ul>
-
-  <h3> Week 1 of Fall 2026 (August 24th - August 30th)</h3>
+  <h3> Week 1 (August 24th - August 30th)</h3>
   <ul>
         <li>Beginning of the fall semester is underway! The semester I'll be taking two classes, CS747 and CS791, while I continue attempting to get this SQL study through IRB and into the hands of participants this semester. </li>
         <li>Lab meetings have returned as well. With everyone gathering together, we took this week to brainstorm research projects for the year as well as proposed paper prototype ideas to bring in to next week's meeting. </li>
-        <li>With no homework assigned, a lot of my time this week went towards refining the test suite. It has come to my knowledge that storing responses is not actually working on the website as all responses are saved locally in browser rather than in a dedicated file. </li>
+        <li>With no homework assigned, a lot of my time this week went towards refining the test suite. It has come to my attention that storing responses is not actually working on the website (https://jagger.cx) as all responses are saved locally in browser. This is creating the obvious issue that I can't view participant data because its not being saved to the AWS Lightsail server. </li>
   </ul>
   
 </details>
@@ -34,8 +17,7 @@ Documenting my journey as a graduate student working with SQL & trying to publis
 
 ## Summer 2026
 <details close>
-      <summary>July</summary>
-
+      <summary>Progress Update</summary>
 
   <h3>Progress update</h3>
 
@@ -45,6 +27,12 @@ Documenting my journey as a graduate student working with SQL & trying to publis
         &emsp;Additionally, during the week of June 22nd, me and a lab partner attended EPIQ 2026, a week long conference setup by our advisor that is dedicated towards working with teachers and educators from across the United States that specializes in teaching students who are deaf, blind, or visually impaired. We had the opportunity of meeting and observing how these people interact with different technologies as well as prod questions such as what they feel is lacking in terms of accessibility and support in their classrooms. While attending, I was invited to participate in my lab partner's think aloud study geared towards accessibility with 3D modeling. My involvement involved interpreting, transcribing and jotting down points made by the participants.<br><br>
         &emsp;Next, why am I updating this now? Well, July 13th, 2026, is the first day of summer session III for UNLV. For me, that marks the beginning of CS690, Independent Study. Thanks to my advisor, I was able to sign up for this class to use it as an opportunity to not only get myself back into the flow of school before the fall semester starts, but also to force myself to sit down and work on my experiments, CITI approval, IRB approval, and begin to break ground on writing my thesis. For roughly the next 40 days, I'll be in constant contact with my advisor as I progress through this class. I will also continue to update this blog weekly just as I did in in prior semesters.  
   </ul>
+
+
+</details>
+
+<details close>
+      <summary>July</summary>
 
   <h3>Week 1 of Independent Study(July 13th - 19th)</h3>
 
@@ -66,13 +54,35 @@ Documenting my journey as a graduate student working with SQL & trying to publis
         <li>Using Gemini, I began to create a test suite for participants. This test suite provides the user with multiple-choice questions asking them to identify how to resolve the query. </li>
   </ul>
             
-
+      
   
+</details>
+
+<details close>
+      <summary>August</summary>
+
+  <h3>Week 4 of Independent Study(August 3rd - August 9th)</h3>
+  <ul>
+        <li>Continued progress working on the test suite. To make it easily accessible, I put it on an AWS Lightsail instance and have been sharing the URL around to foster people's opinions. </li>
+        <li>After speaking with my advisor, I had to further narrow down the questions I want to ask and what specifically I'm targeting with my work. He recommended adding more groups to the study because, in my current interpretation, there are way too many moving parts, and you wouldn't be able to tell which factors affect which. To help address the potential issue of having too few participants, I received a verbal commitment from another CS professor to use their upper-level students for my study. The experimental design requires another discussion and approval with my advisor next week to ensure my approach makes sense. </li>
+  </ul>
+
+  <h3>Week 5 of Independent Study(August 10th - August 16th)</h3>
+  <ul>
+        <li>Wrapping up the final week of Independent Study, CS690, the focus of this week was to further tweak the experiment test suite as well as prepare an IRB Proposal. With my lab partner's help, I stepped through creating an account on my university's IRB platform, completed an exempt research form, and submitted it to my advisor for review before submitting it to the IRB. After discussing with my advisor what else I needed to do to complete the course, they confirmed I finished all necessary work and gave me an A. The IRB submission will be reviewed once school is back in session, so for next week there is no pressing work needed to be done in regard to this research. </li>
+        <li>Rather than staying home and taking the next week off, I will maintain my routine of going to the lab daily but will focus my attention towards preparing for my Fall 2026 coursework. </li>
+  </ul>
+
+  <h3> August 17th - August 23rd</h3>
+  <ul>
+        This was my last designated week of summer before the fall semester begins. No effort was put towards the SQL research as my attention was directed towards reading the books for my upcoming CS747 class. On Thursday, August 20th, my advisor submitted my IRB proposal to IRB and is currently under review as of writing this. 
+  </ul>
+      
 </details>
 
 ## Spring 2026
 <details close>
-      <summary>January/February</summary>
+      <summary>January</summary>
 
 
   <h3>Week 1 (January 19th - 25th)</h3>
@@ -91,7 +101,7 @@ Documenting my journey as a graduate student working with SQL & trying to publis
 
 ## Fall 2025
 <details close>
-      <summary>August/September</summary>
+      <summary>August</summary>
 
 
   <h3>Week 1 (August 25th - 31st)</h3>
@@ -101,6 +111,12 @@ Documenting my journey as a graduate student working with SQL & trying to publis
         <li>Caught up with professors that I haven't spoken to since the Spring 2025 semester</li>
         <li>Attended Dr.Stefik's kickoff meeting with his research team</li>
   </ul>
+
+</details>
+
+<details close>
+      <summary>September</summary>
+      
   <h3>Week 2 (September 1st - 7th)</h3>
 
   <ul>
@@ -164,7 +180,7 @@ Documenting my journey as a graduate student working with SQL & trying to publis
 </details>
 
 <details close>
-  <summary>November/December</summary>
+  <summary>November</summary>
       
   <h3>Week 10 (October 27th - November 2nd)</h3>
   <ul>
@@ -204,6 +220,10 @@ Documenting my journey as a graduate student working with SQL & trying to publis
         <li>The TLDR of the paper is that although I generated 100,000 unique samples, the model was overfitting and never learned the context of the queries. </li>
   </ul>
 
+</details>
+
+<details close>
+      <summary>December</summary>
   <h3>Week 16 (December 8th - December 14th) - FINALS WEEK </h3>
     <ul>
         <li> This week consisted of two finals (CS682, CS784) and the project presentation for the SQL error assistant I've been working on in CS689. </li> 
