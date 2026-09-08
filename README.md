@@ -3,6 +3,16 @@ Documenting my journey as a graduate student working with SQL & trying to publis
 
 ## Fall 2026
 <details open>
+      <summary>September</summary>
+  <h3> Week 2 (August 31st - September 6th) </h3>
+  <ul>
+        <li>For the research lab, I was tasked with designing paper prototypes for a potential research project this year. After showing it to the lab, we realized that the level of abstraction could vary for databases but also that reading the queries visually rather than through code did seemingly make it easier to understand. My take away was that queries are best understood visually when they flow left to right, that way as you change components within the table you can visualize where its occurring and on what data. </li>
+        <li>IRB strikes back. They rejected the first proposal and wanted 15~ changes to it, which to be fair, the majority were reasonable such as seeing the student recruitment paper and adjusting the exempt information sheet. However, asking to see all 60 questions and all possible answers of the study on SQL queries has got to be one of the worst change requests possible. Its programming text on a screen, what are we worried about here?</li>
+        <li> First homework for CS747 went up and is due on the 20th.</li>
+  </ul>
+
+
+<details close>
       <summary>August</summary>
 
   <h3> Week 1 (August 24th - August 30th)</h3>
