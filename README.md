@@ -11,6 +11,16 @@ Documenting my journey as a graduate student working with SQL & trying to publis
         <li> First homework for CS747 went up and is due on the 20th.</li>
   </ul>
 
+   <h3> Week 3 (September 7th - September 13th) </h3>
+   <ul>
+            <li>No update from IRB. </li>
+            <li>Lab partner was out of the lab all week. </li>
+            <li>Directed to begin drafting up my thesis so that I'm making the most of my time as I wait for IRB to respond. I can write essentially everything other than the results section (because I haven't ran the test yet) and just have it in order for my advisor to look at. Keep in mind my advisor said they would only give it one review, after that its entirely on me to correct. This is to say, my initial draft better be of high quality by the time I send it off to him. </li>
+            <li>As I've been looking to finalize my committee members, one of my professors had to fill out paperwork to qualify, another professor that's known me since undergrad agreed to be on my committee, and all I have left is to seek out my graduate representative from outside of the CS department. I went ahead and coordinated a meeting for Tuesday next week to do so. </li>
+         
+   </ul>
+      
+</details>
 
 <details close>
       <summary>August</summary>
