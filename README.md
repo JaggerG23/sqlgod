@@ -17,6 +17,16 @@ Documenting my journey as a graduate student working with SQL & trying to publis
             <li>Lab partner was out of the lab all week. </li>
             <li>Directed to begin drafting up my thesis so that I'm making the most of my time as I wait for IRB to respond. I can write essentially everything other than the results section (because I haven't ran the test yet) and just have it in order for my advisor to look at. Keep in mind my advisor said they would only give it one review, after that its entirely on me to correct. This is to say, my initial draft better be of high quality by the time I send it off to him. </li>
             <li>As I've been looking to finalize my committee members, one of my professors had to fill out paperwork to qualify, another professor that's known me since undergrad agreed to be on my committee, and all I have left is to seek out my graduate representative from outside of the CS department. I went ahead and coordinated a meeting for Tuesday next week to do so. </li>
+   </ul>
+
+  <h3> Week 4 (September 14th - September 20th) </h3>
+      <ul>
+            <li>No update from IRB yet again. As of Thursday my advisor was livid regarding IRB taking so long to respond back to our exempt study, so him and I sent multiple emails following up on the status of the project. </li>
+            <li>CS747 Homework 1 is due this week. </li>
+            <li>Further refinements were done to the study prototype, this time taking in feedback from users that know nothing about the study at all. </li>
+            <li>Advisory committee is finalized! </li>
+      </ul>
+        
          
    </ul>
       
