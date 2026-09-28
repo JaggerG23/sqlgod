@@ -26,6 +26,13 @@ Documenting my journey as a graduate student working with SQL & trying to publis
             <li>Further refinements were done to the study prototype, this time taking in feedback from users that know nothing about the study at all. </li>
             <li>Advisory committee is finalized! </li>
       </ul>
+
+  <h3> Week 5 (September 21st - September 27th) </h3>
+        <ul>
+              <li>As of Monday the IRB sent back my submissions for revisions once again. Upon reviewing their comments, although there were a couple of reasonable questions to ask, they proceeded to criticize parts of the study that they didn't in the first revision. Additionally I found out that their dashboard doesn't explicitly tell you every new comment they make so you need to manually check for additional comments on every question of the submissions. Within 24 hours I revised the study and the test suite heavily and sent it back into the IRB queue. </li>
+              <li> Midterm for CS747 is coming up, I've began reviewing for it. </li>
+              <li>Plan of study has been accepted! No additional forms need to be filled until I'm ready to defend my thesis. </li>
+        </ul>
         
          
    </ul>
