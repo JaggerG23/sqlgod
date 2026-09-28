@@ -4,20 +4,13 @@ Documenting my journey as a graduate student working with SQL & trying to publis
 ## Fall 2026
 <details open>
       <summary>September</summary>
-  <h3> Week 2 (August 31st - September 6th) </h3>
-  <ul>
-        <li>For the research lab, I was tasked with designing paper prototypes for a potential research project this year. After showing it to the lab, we realized that the level of abstraction could vary for databases but also that reading the queries visually rather than through code did seemingly make it easier to understand. My take away was that queries are best understood visually when they flow left to right, that way as you change components within the table you can visualize where its occurring and on what data. </li>
-        <li>IRB strikes back. They rejected the first proposal and wanted 15~ changes to it, which to be fair, the majority were reasonable such as seeing the student recruitment paper and adjusting the exempt information sheet. However, asking to see all 60 questions and all possible answers of the study on SQL queries has got to be one of the worst change requests possible. Its programming text on a screen, what are we worried about here?</li>
-        <li> First homework for CS747 went up and is due on the 20th.</li>
-  </ul>
 
-   <h3> Week 3 (September 7th - September 13th) </h3>
-   <ul>
-            <li>No update from IRB. </li>
-            <li>Lab partner was out of the lab all week. </li>
-            <li>Directed to begin drafting up my thesis so that I'm making the most of my time as I wait for IRB to respond. I can write essentially everything other than the results section (because I haven't ran the test yet) and just have it in order for my advisor to look at. Keep in mind my advisor said they would only give it one review, after that its entirely on me to correct. This is to say, my initial draft better be of high quality by the time I send it off to him. </li>
-            <li>As I've been looking to finalize my committee members, one of my professors had to fill out paperwork to qualify, another professor that's known me since undergrad agreed to be on my committee, and all I have left is to seek out my graduate representative from outside of the CS department. I went ahead and coordinated a meeting for Tuesday next week to do so. </li>
-   </ul>
+  <h3> Week 5 (September 21st - September 27th) </h3>
+        <ul>
+              <li>As of Monday the IRB sent back my submissions for revisions once again. Upon reviewing their comments, although there were a couple of reasonable questions to ask, they proceeded to criticize parts of the study that they didn't in the first revision. Additionally I found out that their dashboard doesn't explicitly tell you every new comment they make so you need to manually check for additional comments on every question of the submissions. Within 24 hours I revised the study and the test suite heavily and sent it back into the IRB queue. </li>
+              <li> Midterm for CS747 is coming up, I've began reviewing for it. </li>
+              <li>Plan of study has been accepted! No additional forms need to be filled until I'm ready to defend my thesis. </li>
+        </ul>
 
   <h3> Week 4 (September 14th - September 20th) </h3>
       <ul>
@@ -27,13 +20,21 @@ Documenting my journey as a graduate student working with SQL & trying to publis
             <li>Advisory committee is finalized! </li>
       </ul>
 
-  <h3> Week 5 (September 21st - September 27th) </h3>
-        <ul>
-              <li>As of Monday the IRB sent back my submissions for revisions once again. Upon reviewing their comments, although there were a couple of reasonable questions to ask, they proceeded to criticize parts of the study that they didn't in the first revision. Additionally I found out that their dashboard doesn't explicitly tell you every new comment they make so you need to manually check for additional comments on every question of the submissions. Within 24 hours I revised the study and the test suite heavily and sent it back into the IRB queue. </li>
-              <li> Midterm for CS747 is coming up, I've began reviewing for it. </li>
-              <li>Plan of study has been accepted! No additional forms need to be filled until I'm ready to defend my thesis. </li>
-        </ul>
-        
+   <h3> Week 3 (September 7th - September 13th) </h3>
+   <ul>
+            <li>No update from IRB. </li>
+            <li>Lab partner was out of the lab all week. </li>
+            <li>Directed to begin drafting up my thesis so that I'm making the most of my time as I wait for IRB to respond. I can write essentially everything other than the results section (because I haven't ran the test yet) and just have it in order for my advisor to look at. Keep in mind my advisor said they would only give it one review, after that its entirely on me to correct. This is to say, my initial draft better be of high quality by the time I send it off to him. </li>
+            <li>As I've been looking to finalize my committee members, one of my professors had to fill out paperwork to qualify, another professor that's known me since undergrad agreed to be on my committee, and all I have left is to seek out my graduate representative from outside of the CS department. I went ahead and coordinated a meeting for Tuesday next week to do so. </li>
+   </ul>
+
+  <h3> Week 2 (August 31st - September 6th) </h3>
+  <ul>
+        <li>For the research lab, I was tasked with designing paper prototypes for a potential research project this year. After showing it to the lab, we realized that the level of abstraction could vary for databases but also that reading the queries visually rather than through code did seemingly make it easier to understand. My take away was that queries are best understood visually when they flow left to right, that way as you change components within the table you can visualize where its occurring and on what data. </li>
+        <li>IRB strikes back. They rejected the first proposal and wanted 15~ changes to it, which to be fair, the majority were reasonable such as seeing the student recruitment paper and adjusting the exempt information sheet. However, asking to see all 60 questions and all possible answers of the study on SQL queries has got to be one of the worst change requests possible. Its programming text on a screen, what are we worried about here?</li>
+        <li> First homework for CS747 went up and is due on the 20th.</li>
+  </ul>
+
          
    </ul>
       
