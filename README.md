@@ -3,8 +3,21 @@ Documenting my journey as a graduate student working with SQL & trying to publis
 
 ## Fall 2026
 <details open>
-      <summary>September</summary>
+      <summary>October</summary>
 
+  <h3> Week 6 (September 28th - October 4th) </h3>
+        <ul>
+              <li>IRB responded with revisions requests for a third time on October 2nd. After discussing with other professors, I've been advised to set up a meet with my IRB analyst to try and come to a quicker conclusion regarding the status and changes of this IRB submission</li>
+              <li>Spent this week studying for the CS747 midterm that is coming up on October 5th. </li>
+        </ul>
+
+
+</details>
+
+
+
+<details close>
+      <summary>September</summary>
   <h3> Week 5 (September 21st - September 27th) </h3>
         <ul>
               <li>As of Monday the IRB sent back my submissions for revisions once again. Upon reviewing their comments, although there were a couple of reasonable questions to ask, they proceeded to criticize parts of the study that they didn't in the first revision. Additionally I found out that their dashboard doesn't explicitly tell you every new comment they make so you need to manually check for additional comments on every question of the submissions. Within 24 hours I revised the study and the test suite heavily and sent it back into the IRB queue. </li>
