@@ -4,7 +4,14 @@ Documenting my journey as a graduate student working with SQL & trying to publis
 ## Fall 2026
 <details open>
       <summary>October</summary>
-
+      
+  <h3> Week 7 (October 5th - October 11th)</h3>
+        <ul>
+              <li>After meeting with the IRB analyst on Friday, they requested two changes be made to the proposal in such that certain things are explicitly stated. We cleared up the confusion they had regarding user IDs, established the protocol for talking to students from classes my advisor teaches, and explicitly explained how the study data and emails for extra credit are collected separately. It was sent back to IRB once again and is pending a result. </li>
+              <li>CS747 midterm came back and the results were right where I figured I'd be. I need to get my midterm back so I can review what I was marked down but I have a good feeling I know where I went wrong in the study. </li>
+              <li>Beginning HW2 for CS747, due on October 18th. </li>
+        </ul>
+        
   <h3> Week 6 (September 28th - October 4th) </h3>
         <ul>
               <li>IRB responded with revisions requests for a third time on October 2nd. After discussing with other professors, I've been advised to set up a meet with my IRB analyst to try and come to a quicker conclusion regarding the status and changes of this IRB submission</li>
