@@ -4,6 +4,13 @@ Documenting my journey as a graduate student working with SQL & trying to publis
 ## Fall 2026
 <details open>
       <summary>October</summary>
+
+  <h3> Week 8 (October 12th - October 18th)</h3>
+        <ul>
+              <li><b>IRB FINALLY APPROVED THE STUDY AFTER TWO MONTHS!</b> On Monday my advisor informed me the study had been approved despite the dashboard saying it was still under review and me not receiving any emails about it. Turns out, he mistakenly read the wrong email and it wasn't approved. HOWEVER, as of Thursday I did receive the official email stating that the study was now exempt. </li>
+              <li>I was able to introduce my project to the lab and get very critical feedback. Main takeaways were that the queries were too hard, the high level language was not well integrated into the questions, training was too hard and too long, and that there was a pattern when finding a solution to the problems. </li>
+              <li>CS747 Homework 2 was due this weekend as well as a class quiz as the professor was unable to attend lecture on Wednesday.</li>
+        </ul>
       
   <h3> Week 7 (October 5th - October 11th)</h3>
         <ul>
