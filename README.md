@@ -5,6 +5,17 @@ Documenting my journey as a graduate student working with SQL & trying to publis
 <details open>
       <summary>October</summary>
 
+  <h3> Week 10 (October 26th - November 1st)</h3>      
+      <ul>
+            <li> Now with the study revised, the challenge became moving it off of the AWS Lightsail instance and onto the lab's server for security purposes. As I didn't know how to handle this, I looked for help in the lab, and one of the members was thankfully able to clone the repo with the study and ensure all endpoints were working properly.</li>
+            <li>After the lab meeting on Thursday, my advisor set a deadline of Tuesday next week to officially launch the study.</li>
+      </ul>
+
+  <h3> Week 9 (October 19th - October 25th)</h3> 
+        <ul>
+              <li>Forgot to post the update for this week, but essentially, now that the study was approved, there were major changes to the queries individually: the count was changed from 60 to 25, each query was hand-reviewed, training was reduced from 10 questions to 4, and minor errors were fixed. </li>
+        </ul>
+
   <h3> Week 8 (October 12th - October 18th)</h3>
         <ul>
               <li><b>IRB FINALLY APPROVED THE STUDY AFTER TWO MONTHS!</b> On Monday my advisor informed me the study had been approved despite the dashboard saying it was still under review and me not receiving any emails about it. Turns out, he mistakenly read the wrong email and it wasn't approved. HOWEVER, as of Thursday I did receive the official email stating that the study was now exempt. </li>
