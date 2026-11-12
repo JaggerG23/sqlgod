@@ -3,6 +3,20 @@ Documenting my journey as a graduate student working with SQL & trying to publis
 
 ## Fall 2026
 <details open>
+      <summary>November</summary>
+
+  <h3> Week 11 (November 2nd - November 9th)</h3>
+  <ul>
+        <li>The study officially went live on Tuesday, November 3rd. I presented in person to two classes led by my advisor and cold-emailed multiple CS professors to gauge their interest in volunteering their class for the study. Some professors rejected, and others were interested. For those who were interested, I shared the recruitment form and asked them to forward it to their students. </li>
+        <li>CS747 Cryptography Homework 3 was finished. Homework 4 was assigned with a due date of the 15th. </li>
+        <li>CS747 Research Presentation was completed on November 4th, covering the paper "On Lattices, Learning with Errors, Random Linear Codes, and Cryptography".</li>
+  </ul>
+
+</details>
+
+
+
+<details close>
       <summary>October</summary>
 
   <h3> Week 10 (October 26th - November 1st)</h3>      
