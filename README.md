@@ -5,7 +5,19 @@ Documenting my journey as a graduate student working with SQL & trying to publis
 <details open>
       <summary>November</summary>
 
-  <h3> Week 11 (November 2nd - November 9th)</h3>
+  <h3> Week 13 (November 16th - November 22nd)</h3>
+  <ul>
+      <li>Completed CS747 Midterm 2 / Final. After taking the final on the 18th, I stepped away from everything study related as my reward for surviving yet another grad class. For the record, this professor is still yet to grade anything outside of Homework 1 and Midterm 1. </li>
+      <li>With testing over, my advisor has tasked me with writing the statistical analysis scripts for my current study data so that we can begin to evaluate it. 
+      <li>Spoke with one of the CS professors on my committee and they volunteered their class for my ongoing study. Without promising anything, I told them I'd reach out after discussing it with my advisor. Upon telling my advisor, they thought it wasn't necessary but also not a bad thing either, leaving it up for me to decide. Currently there are 81 recorded participants with about 10~ being incomplete. Ideally I'd like to reach N=100+ as I feel that would look better on my resume and when discussing the project although I also acknowledge that isn't the focus. </li>
+  </ul>
+
+  <h3> Week 12 (November 9th - November 15th)</h3>
+  <ul>
+      <li>This week was spent studying for the CS747 midterm 2 which acts as the final for the class. With all four homework assignments, 5 quizzes, and presentation completed, this "midterm" serves as the last task in the class outside of short presentation quizzes that follow up through study week.</li>
+  </ul>
+
+  <h3> Week 11 (November 2nd - November 8th)</h3>
   <ul>
         <li>The study officially went live on Tuesday, November 3rd. I presented in person to two classes led by my advisor and cold-emailed multiple CS professors to gauge their interest in volunteering their class for the study. Some professors rejected, and others were interested. For those who were interested, I shared the recruitment form and asked them to forward it to their students. </li>
         <li>CS747 Cryptography Homework 3 was finished. Homework 4 was assigned with a due date of the 15th. </li>
@@ -13,7 +25,6 @@ Documenting my journey as a graduate student working with SQL & trying to publis
   </ul>
 
 </details>
-
 
 
 <details close>
@@ -50,9 +61,7 @@ Documenting my journey as a graduate student working with SQL & trying to publis
               <li>Spent this week studying for the CS747 midterm that is coming up on October 5th. </li>
         </ul>
 
-
 </details>
-
 
 
 <details close>
@@ -86,10 +95,9 @@ Documenting my journey as a graduate student working with SQL & trying to publis
         <li>IRB strikes back. They rejected the first proposal and wanted 15~ changes to it, which to be fair, the majority were reasonable such as seeing the student recruitment paper and adjusting the exempt information sheet. However, asking to see all 60 questions and all possible answers of the study on SQL queries has got to be one of the worst change requests possible. Its programming text on a screen, what are we worried about here?</li>
         <li> First homework for CS747 went up and is due on the 20th.</li>
         </ul>
-
-         
-      
+        
 </details>
+
 
 <details close>
       <summary>August</summary>
